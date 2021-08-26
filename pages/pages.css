@@ -5,7 +5,7 @@
 
         #champdiv{
             text-align: left;
-            width: 872px;
+            max-width: 872px;
             border-top-left-radius: 120px;
             padding: 20px;
             height: 261;
@@ -38,7 +38,7 @@
             border-bottom-left-radius: 5px;
             border-bottom-right-radius: 5px;
             
-            width: 800px;
+            max-width: 800px;
             padding: 20px;
             height: 261;
             margin: auto;
@@ -49,6 +49,7 @@
         #conteudoBasico{
             max-width: 800px;
             margin: auto;
+            padding: 10px;
         }
 
         #goBack{
