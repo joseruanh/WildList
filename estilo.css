@@ -68,8 +68,8 @@ body
     height: 100px;
     transition: 300ms;
     position: relative;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 10px;
 }
 #img1:hover{
     box-shadow: rgb(111, 157, 255) 0px 0px 15px;
