@@ -1,0 +1,82 @@
+
+        *{box-sizing: border-box; font-family: Verdana;}
+
+        div{color: white;}
+
+        #champdiv{
+            text-align: left;
+            width: 872px;
+            border-top-left-radius: 120px;
+            padding: 20px;
+            height: 261;
+            margin: auto;
+            background: url(../images/divchamp.png);
+            margin-top: 70px;
+        }
+        video{
+            border-top-left-radius: 500px;
+            border-top-right-radius: 40px;
+            border-bottom-left-radius: 40px;
+            border-bottom-right-radius: 40px;
+            padding-left: 20px;
+            padding-bottom: 5px;
+        }
+        h1{color: white; padding-left: 40px;}
+
+
+        .champvid{float: right;}
+
+        
+        #pChamp{
+            padding: 10px;
+        }
+
+        #champItem{
+            text-align: left;
+            border-top-left-radius: 40px;
+            border-top-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            
+            width: 800px;
+            padding: 20px;
+            height: 261;
+            margin: auto;
+            background-color: rgb(72, 167, 255);
+            margin-top: 70px;
+        }
+
+        #conteudoBasico{
+            max-width: 800px;
+            margin: auto;
+        }
+
+        #goBack{
+            width: 100px;
+            padding: 10px;
+            margin: auto;
+            float: right;
+            color: rgb(78, 169, 255);
+            background-color: white;
+            border: none;
+            border-radius: 10px;
+            box-shadow: rgb(72, 167, 255) 0px 5px 0px;
+            cursor: pointer;
+            transition: 0.3s;
+            font-weight: bolder;
+        }
+        #goBack:hover{
+            background-color: rgb(72, 167, 255);
+            box-shadow: rgb(72, 167, 255) 0px 0px 0px;
+            color: white;
+        }
+
+        footer{
+            padding-top: 300px;
+            padding-bottom: 20px;
+            max-width: 800px;
+            margin: auto;
+            color: rgb(8, 52, 94);
+            font-weight: bolder;
+            text-align: center;
+        }

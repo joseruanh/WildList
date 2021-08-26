@@ -1,0 +1,151 @@
+* {padding: 0; margin: 0;}
+
+.header
+{
+    max-width: 3000px;
+    background-color: rgb(80, 176, 255);
+    color:white;
+    margin: auto;
+    padding: 20px;
+    font-family: Verdana;
+}
+#titulop{
+    font-size: 20px;
+}
+#menuzinho{
+    float: right;
+    padding-right: 50px;
+    margin-top: 1px;
+
+}
+#tier{
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: rgb(80, 176, 255);
+    box-shadow: white 0px 4px 0px;
+    border: none;
+    padding: 5px;
+    color: white;
+    font-weight: bolder;
+}
+#tier:hover{
+    color: rgb(80, 176, 255);
+    background-color: white;
+    box-shadow: white 0px 0px 5px;
+}
+
+
+body
+{
+   background-color: white;
+}
+
+#t2
+{
+    color:rgb(80, 176, 255)
+}
+
+.s1
+{
+    margin-top: 200px;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border: rgb(80, 176, 255);
+    border-radius: 1px;
+    padding: 20px;
+    font-family: open sans wf,sans-serif;
+
+    
+}
+
+#img1
+{
+    width: 100px;
+    height: 100px;
+    transition: 300ms;
+    position: relative;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 30px;
+}
+#img1:hover{
+    box-shadow: rgb(111, 157, 255) 0px 0px 15px;
+}
+#spanAhri
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    text-align: center;
+    font-family: open sans wf, sans-serif;
+    text-transform: capitalize;
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: 800;
+    font-style: italic;
+    background: rgb(80, 176, 255);
+}
+
+.campeoes
+{
+    width: 100%;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+    transition: 0.3s;
+    cursor: pointer;
+
+    
+}
+
+.campeoes::after
+{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 17px 17px;
+    border-color: transparent transparent rgb(80, 176, 255);
+    right: 0;
+    bottom: 26px;
+}
+#spanAkali
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    text-align: center;
+    font-family: open sans wf, sans-serif;
+    text-transform: capitalize;
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: 800;
+    font-style: italic;
+    background: rgb(80, 176, 255);
+}
+
+#spanAlistar
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    text-align: center;
+    font-family: open sans wf, sans-serif;
+    text-transform: capitalize;
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: 800;
+    font-style: italic;
+    background: rgb(80, 176, 255);
+}
+
