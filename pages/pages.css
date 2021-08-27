@@ -12,6 +12,7 @@
 
         #pRes{
             font-size: 12px;
+            max-width: 200px;
         }
 
         #champdiv{
