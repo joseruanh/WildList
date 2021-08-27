@@ -1,4 +1,6 @@
 * {padding: 0; margin: 0; font-family: Verdana;}
+body{background-color: white;}
+
 
 .header
 {
@@ -37,10 +39,6 @@
 }
 
 
-body
-{
-   background-color: white;
-}
 
 #t2
 {
