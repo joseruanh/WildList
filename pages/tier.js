@@ -9,7 +9,7 @@ function  baron(){
                     <div id="list">
                         <p id="pTierListSS">S+</p> <br>
                         
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/gragas.webp" alt="gragas"> </a>
+                        <a id="tierHeros" href="gragas.html"> <img id="imgGuia" src="../images/gragas.webp" alt="gragas"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/fiora.webp" alt="camille"> </a>                      
                     </div>
                     <div id="list">
@@ -30,7 +30,7 @@ function  baron(){
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/darius.webp" alt="darius"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/renekton.webp" alt="renek"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/garen.webp" alt="garen"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>
+                            <a id="tierHeros" href="akali.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>
                         </div>
                         <div id="list">
                             <p>Classificação S são todos <br> aqueles que levam vantagem na maioria das matchups</p><br>
@@ -213,7 +213,7 @@ function  mid(){
                     <p id="pTierListSS">S+</p> <br>
                         
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/ziggs.webp" alt="ziggs"> </a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>                      
+                        <a id="tierHeros" href="akali.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>                      
                     </div>
                     <div id="list">
                         <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p><br><br>
@@ -232,7 +232,7 @@ function  mid(){
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/katarina.webp" alt="katarina"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/irelia.webp" alt="irelia"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
+                            <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
                         </div>
                         <div id="list">
@@ -412,7 +412,7 @@ function  adc(){
                         <p id="pTierListS">S</p> <br>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/ezreal.webp" alt="ez"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
+                            <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/xayah.webp" alt="xayah"> </a>
                         </div>
                         <div id="list">
@@ -425,7 +425,7 @@ function  adc(){
                     <div id="list">
                         <br>
                         <p id="pTierListA">A</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/jinx.webp" alt="jinx"></a>
+                        <a id="tierHeros" href="jinx.html"> <img id="imgGuia" src="../images/jinx.webp" alt="jinx"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/draven.webp" alt="draven"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/tristana.webp" alt="tristana"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/varus.webp" alt="varus"> </a>
