@@ -13,7 +13,7 @@ function  baron(){
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>                      
                     </div>
                     <div id="list">
-                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na maioria das matchups</p>
+                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p>
                         <br>
                     <hr>
                     <br>
@@ -120,7 +120,7 @@ function  jungle(){
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/khazix.webp" alt="KhaZix"> </a>                      
                     </div>
                     <div id="list">
-                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na maioria das matchups</p><br>
+                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p><br>
                     <hr>
                     <br>
                     </div>
@@ -216,7 +216,7 @@ function  mid(){
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>                      
                     </div>
                     <div id="list">
-                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na maioria das matchups</p><br><br>
+                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p><br><br>
                     <hr>
                     <br>
                     </div>
@@ -313,7 +313,7 @@ function  sup(){
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/nami.webp" alt="nami"> </a>                      
                     </div>
                     <div id="list">
-                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na maioria das matchups</p><br>
+                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p><br>
                     <hr>
                     <br>
                     </div>
@@ -399,7 +399,7 @@ function  adc(){
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/kaisa.webp" alt="kaisa"> </a>                    
                     </div>
                     <div id="list">
-                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na maioria das matchups</p><br>
+                        <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p><br>
                     <hr>
                     <br>
                     </div>
