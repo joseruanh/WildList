@@ -10,7 +10,7 @@ function  baron(){
                         <p id="pTierListSS">S+</p> <br>
                         
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/gragas.webp" alt="gragas"> </a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>                      
+                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/fiora.webp" alt="camille"> </a>                      
                     </div>
                     <div id="list">
                         <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p>
