@@ -26,33 +26,8 @@
             margin-top: 70px;
         }
 
-        .champvid{float: right;
-        
-        
-            width: 90%;
-            min-width: 320px; margin: 0 auto;}
-        video{
-            border-top-left-radius: 900px;
-            border-top-right-radius: 40px;
-            border-bottom-left-radius: 900px;
-            border-bottom-right-radius: 40px;
-            padding-left: 20px;
-            padding-bottom: 5px;
-
-            max-width: 480px;
-            width: 100%; height: auto;
-        }
-
-        iframe{
-            max-width: 560px;
-
-            width: 90%;
-            min-width: 320px; margin: 0 auto;}
-
         h1{color: white; padding-left: 40px;}
-
-
-      
+     
 
         
         #pChamp{
