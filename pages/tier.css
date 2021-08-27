@@ -118,3 +118,9 @@
     border-bottom-right-radius: 10px;
     padding: 7px;
 }
+
+hr{
+    border-color: white;
+    color: white;
+    text-decoration: none;
+}
