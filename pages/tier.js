@@ -116,7 +116,7 @@ function  jungle(){
                     <div id="list">
                     <p id="pTierListSS">S+</p> <br>
                         
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/lee-sin.webp" alt="Lee"> </a>
+                        <a id="tierHeros" href="lee-sin.html"> <img id="imgGuia" src="../images/lee-sin.webp" alt="Lee"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/khazix.webp" alt="KhaZix"> </a>                      
                     </div>
                     <div id="list">
