@@ -23,7 +23,7 @@
             height: 261;
             margin: auto;
             background: url(../images/divchamp.png);
-            margin-top: 70px;
+            margin-top: 18px;
         }
 
         h1{color: white; padding-left: 40px;}
@@ -46,7 +46,7 @@
             height: 261;
             margin: auto;
             background-color: rgb(72, 167, 255);
-            margin-top: 70px;
+            margin-top: 30px;
         }
 
         #conteudoBasico{
