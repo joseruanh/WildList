@@ -263,7 +263,7 @@ function  mid(){
                         <p id="pTierListB">B</p> <br>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/aurelion-sol.webp" alt="Ao Sol"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/renekton.webp" alt="renek"></a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/akshan.webp" alt="akshan"></a>                        
+                        <a id="tierHeros" href="akshan.html"> <img id="imgGuia" src="../images/akshan.webp" alt="akshan"></a>                        
                     </div>
                     <div id="list">
                         <p>Classificação B são todos <br> aqueles que não levam muita vantagem na lane</p><br>
@@ -342,7 +342,7 @@ function  sup(){
                     <div id="list">
                         <br>
                         <p id="pTierListA">A</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/alistar.webp" alt="alistar"></a>
+                        <a id="tierHeros" href="alistar.html"> <img id="imgGuia" src="../images/alistar.webp" alt="alistar"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/seraphine.webp" alt="seraphine"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/sona.webp" alt="sona"> </a>
