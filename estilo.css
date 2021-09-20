@@ -1,6 +1,11 @@
 * {padding: 0; margin: 0; font-family: Verdana; box-sizing: border-box;}
 body{background-color: white;}
 
+@font-face {
+    font-family: heroes;
+    src: url('fonts/Heroes-Legend.ttf') format('truetype');
+}
+
 
 .header
 {
@@ -37,6 +42,12 @@ body{background-color: white;}
     color: rgb(80, 176, 255);
     background-color: white;
     box-shadow: white 0px 0px 5px;
+}
+
+h3#t2{
+    font-family: heroes;
+    font-weight: normal;
+    font-size: 14px;
 }
 
 
