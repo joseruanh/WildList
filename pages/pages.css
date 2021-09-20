@@ -1,11 +1,22 @@
 
         *{box-sizing: border-box; font-family: Verdana;}
+        
+        h1{color: white; padding-left: 40px;}
 
         div{color: white;}
 
         ol{
             margin-left: 10%;
             color: rgb(0, 54, 104);
+        }
+
+        :root{
+            --cor1: #1E4DE8;
+            --cor2: #2256FF;
+            --cor3: #183CB5;
+            --cor4: #2D3B69;
+            --cor5: #6585EC;
+        
         }
         
         #imgPages{
@@ -21,18 +32,15 @@
         }
 
         #champdiv{
-            text-align: left;
-            max-width: 872px;
-            border-top-left-radius: 120px;
-            padding: 20px;
-            height: 261;
-            margin: auto;
-            background: url(../images/divchamp.png);
-            margin-top: 18px;
+        text-align: left;
+        max-width: 872px;
+        border-radius: 120px 5px 5px 5px;
+        padding: 20px;
+        height: 261;
+        margin: auto;
+        background-color: var(--cor5);
+        margin-top: 18px;
         }
-
-        h1{color: white; padding-left: 40px;}
-     
 
         
         #pChamp{
@@ -50,7 +58,7 @@
             padding: 20px;
             height: 261;
             margin: auto;
-            background-color: rgb(72, 167, 255);
+            background-color: var(--cor5);
             margin-top: 30px;
         }
 
@@ -58,7 +66,7 @@
             max-width: 800px;
             margin: auto;
             padding: 10px;
-            box-shadow: rgb(78, 169, 255) 0px 24px 0px;
+            box-shadow:var(--cor5) 0px 24px 0px;
             border-bottom-right-radius: 40px;
         }
 
@@ -67,17 +75,17 @@
             padding: 10px;
             margin: auto;
             float: right;
-            color: rgb(78, 169, 255);
+            color: var(--cor5);
             background-color: white;
             border: none;
             border-radius: 10px;
-            box-shadow: rgb(72, 167, 255) 0px 5px 0px;
+            box-shadow: var(--cor5) 0px 5px 0px;
             cursor: pointer;
             transition: 0.3s;
             font-weight: bolder;
         }
         #goBack:hover{
-            background-color: rgb(72, 167, 255);
+            background-color: var(--cor5);
             box-shadow: rgb(72, 167, 255) 0px 0px 0px;
             color: white;
         }
@@ -101,7 +109,7 @@
             border-bottom-left-radius: 10px;
         }
         #pDesc{
-            color: rgb(0, 54, 104); max-width: 600px; text-align: left; margin: auto;
+            color: var(--cor4); max-width: 600px; text-align: left; margin: auto;
         }
         #divDesc{
             max-width: 700px;
