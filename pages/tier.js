@@ -180,7 +180,7 @@ function  jungle(){
                     <div id="list">
                         <br>
                         <p id="pTierListC">C</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/amumu.webp" alt="amumu"></a>
+                        <a id="tierHeros" href="amumu.html"> <img id="imgGuia" src="../images/amumu.webp" alt="amumu"></a>
 
                     </div>
                     <div id="list">

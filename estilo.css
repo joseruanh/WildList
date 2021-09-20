@@ -10,7 +10,7 @@ body{background-color: white;}
 .header
 {
     max-width: 3000px;
-    background-image: linear-gradient(to bottom, rgb(34, 156, 255), rgb(132, 200, 255));
+    background-image: linear-gradient(to bottom, rgb(34, 86, 255), rgb(71, 172, 255));
     color:white;
     margin: auto;
     padding: 20px;
