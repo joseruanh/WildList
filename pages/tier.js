@@ -261,7 +261,7 @@ function  mid(){
                     <div id="list">
                         <br>
                         <p id="pTierListB">B</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/aurelion-sol.webp" alt="Ao Sol"></a>
+                        <a id="tierHeros" href="aurelion.html"> <img id="imgGuia" src="../images/aurelion-sol.webp" alt="Au Sol"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/renekton.webp" alt="renek"></a>
                         <a id="tierHeros" href="akshan.html"> <img id="imgGuia" src="../images/akshan.webp" alt="akshan"></a>                        
                     </div>
@@ -275,7 +275,7 @@ function  mid(){
                     <div id="list">
                         <br>
                         <p id="pTierListC">C</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/annie.webp" alt="annie"></a>
+                        <a id="tierHeros" href="annie.html"> <img id="imgGuia" src="../images/annie.webp" alt="annie"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/fizz.webp" alt="fizz"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/lux.webp" alt="lux"></a>
 
@@ -455,7 +455,7 @@ function  adc(){
                     <div id="list">
                         <br>
                         <p id="pTierListC">C</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/ashe.webp" alt="ashe"></a>
+                        <a id="tierHeros" href="ashe.html"> <img id="imgGuia" src="../images/ashe.webp" alt="ashe"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/miss-fortune.webp" alt="missFortune"></a>
 
                     </div>
