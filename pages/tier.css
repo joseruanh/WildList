@@ -1,7 +1,13 @@
 *{font-family: Verdana; }
+:root{
+    --cor1: #1E4DE8;
+    --cor2: #2256FF;
+    --cor3: #183CB5;
+    --cor4: #2D3B69;
+    --cor5: #6585EC;}
 
-.s1{
-    margin-top: 19px;
+.conteudo{
+    margin-top: 20px;
 }
 
 #imgRole{

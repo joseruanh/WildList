@@ -3,36 +3,31 @@ body{background-color: white;}
 
 @font-face {
     font-family: heroes;
-    src: url('fonts/Heroes-Legend.ttf') format('truetype');
-}
+    src: url('fonts/Heroes-Legend.ttf') format('truetype');}
+
 :root{
     --cor1: #1E4DE8;
     --cor2: #2256FF;
     --cor3: #183CB5;
     --cor4: #2D3B69;
-    --cor5: #6585EC;
-
-}
+    --cor5: #6585EC;}
 
 
-.header
-{
+.header{
     max-width: 3000px;
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor5));
     color:white;
     margin: auto;
     padding: 20px;
-    font-family: Verdana;
-}
-#titulop{
-    font-size: 20px;
-}
+    font-family: Verdana;}
+
+#titulop{font-size: 20px;}
+
 #menuzinho{
     float: right;
     padding-right: 10px;
-    margin-top: 1px;
+    margin-top: 1px;}
 
-}
 #tier{
     width: 70px;
     font-size: 10px;
@@ -44,83 +39,106 @@ body{background-color: white;}
     border: none;
     padding: 5px;
     color: white;
-    font-weight: bolder;
-}
+    font-weight: bolder;}
+
 #tier:hover{
     color: rgb(80, 176, 255);
     background-color: white;
-    box-shadow: white 0px 0px 5px;
-}
+    box-shadow: white 0px 0px 5px;}
 
 h3#t2{
     font-family: heroes;
     font-weight: normal;
-    font-size: 12px;
-}
+    font-size: 12px;}
+
+#t2{color: var(--cor5);}
 
 
 
-#t2
-{
-    color: var(--cor5);
-}
 
-.s1
-{
-    max-width: 900px;
-    margin: auto;
+/*MAIN CONTENT*/
+
+
+
+.section1{
+	max-width: 920px;
+    margin: 19px auto auto auto;
     text-align: center;
     background-color: white;
     border: var(--cor5);
     border-radius: 30px;
     padding: 20px;
     font-family: open sans wf,sans-serif;
-    box-shadow: var(--cor5) 0px -5px 0px;
+    box-shadow: var(--cor5) 0px -5px 0px;}
 
-    
-}
-#s1Div{
-    margin-bottom: 35px;
-}
+.divChampions{
+    display: flex;
+    flex-wrap: wrap; /* o wrap faz com que a linha quebre ao chegar no final da tela */
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+    max-width: 920px;}
 
-#img1
-{
-    width: 80px;
-    height: 80px;
-    transition: 300ms;
-    position: relative;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 10px;
-}
-#img1:hover{
-    box-shadow: rgb(111, 157, 255) 0px 0px 2px 3px;
-}
-.campeoes
-{
-
-    overflow: hidden;
-    margin: 10px;
-    position: relative;
-    transition: 0.3s;
-    cursor: pointer;
-
-    
+.personagens{
+	display: flex;
+	position: relative; /* IMPORTANT! */
+	justify-content: center;
+	align-items: center;
+	margin: 10px 10px 10px 10px;
 }
 
-#spanAkali
-{
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    color: white;
-    text-align: center;
-    font-family: open sans wf, sans-serif;
-    text-transform: capitalize;
-    font-size: 13px;
+.champions{
+	width: 95px;
+	height: 95px;
+	text-decoration: none;
+	overflow: hidden;
+    position: relative;}
+
+.icone{
+    max-width: 100%;
+ 	height: 100%;
+ 	transition: 0.3s;
+ 	border-radius: 3px 3px 0px 0px;
+ 	transition-duration: 0.3s;
+ 	border-radius: 50%;}
+
+.icone:hover{
+	border-radius: 10px;}
+
+.spanChampion{
+	position: absolute; /* IMPORTANT! */
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	color: white;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 13px;
     line-height: 15px;
     font-weight: 800;
-    font-style: italic;
-    background: rgb(80, 176, 255);
+    background-color: var(--cor5);
+    border-radius: 30px 30px 10px 10px;
+    text-transform: capitalize;}
+
+
+footer{
+    margin: 50px auto auto auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--cor4);
+    padding: 50px;
+    font-size: 12px;
 }
+footer > div{
+    max-width: 400px;
+    margin: auto;
+}
+
+footer > div > p, h2{
+    color: rgba(255, 255, 255, 0.672);
+    font-weight: bolder;
+}
+
