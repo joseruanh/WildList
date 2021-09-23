@@ -40,11 +40,13 @@
         margin: auto;
         background-color: var(--cor5);
         margin-top: 18px;
+
         }
 
         
         #pChamp{
             padding: 10px;
+            text-align: justify;
         }
 
         #champItem{
