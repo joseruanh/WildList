@@ -15,39 +15,70 @@
             --cor2: #2256FF;
             --cor3: #183CB5;
             --cor4: #2D3B69;
-            --cor5: #6585EC;
-        
-        }
-        
-        #imgPages{
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            box-shadow: white 0px 0px 0px 2px;
-        }
+            --cor5: #6585EC;}
 
-        #pRes{
-            font-size: 10px;
-            max-width: 200px;
+
+            /*MAIN CONTENT*/
+
+        #conteudoBasico{
+            max-width: 800px;
+            margin: auto;
+            padding: 10px;
+            box-shadow:var(--cor5) 0px 24px 0px;
+            border-bottom-right-radius: 40px;
         }
+        
+
+        
 
         #champdiv{
-        text-align: left;
+            display: flex;
+            align-items: center;
+            justify-content: right;
+            flex-wrap: wrap-reverse;
+
+        text-align: center;
         max-width: 872px;
+        min-width: 320px;
         border-radius: 120px 5px 5px 5px;
         padding: 20px;
         height: 261;
-        margin: auto;
+        margin: 18px auto auto auto;
         background-color: var(--cor5);
-        margin-top: 18px;
-
+        position: relative;
         }
 
-        
-        #pChamp{
-            padding: 10px;
+        .infoHeader{
+
+            max-width: 90%;
+            margin: auto;
             text-align: justify;
+            justify-content: center;
+            font-size: 14px;
         }
+        .infoHeader > strong{
+            font-size: 20px;
+        }
+
+
+
+        .videoHeader{
+            text-align: right;
+            max-width: 90%;
+            min-width: 90%;
+            
+            margin: auto;
+
+        }
+        .videoHeader > video{
+            max-width: 80%;
+            min-width: 280px;
+
+        }
+
+
+
+
 
         #champItem{
             text-align: left;
@@ -64,13 +95,36 @@
             margin-top: 30px;
         }
 
-        #conteudoBasico{
-            max-width: 800px;
+
+        #divDesc{
+            max-width: 700px;
             margin: auto;
-            padding: 10px;
-            box-shadow:var(--cor5) 0px 24px 0px;
-            border-bottom-right-radius: 40px;
         }
+
+        #imgPages{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            box-shadow: white 0px 0px 0px 2px;
+        }       
+
+
+        #h3Desc{
+            text-align: left;
+            color: rgb(67, 164, 255);
+            padding-left: 20px;
+            box-shadow: rgb(78, 169, 255) -5px 0px 0px;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
+        }
+        #pDesc{
+            color: var(--cor4); max-width: 600px; text-align: left; margin: auto;
+        }
+    
+
+
+
+
 
         #goBack{
             width: 100px;
@@ -92,6 +146,9 @@
             color: white;
         }
 
+
+
+
         footer{
             padding-top: 300px;
             padding-bottom: 20px;
@@ -100,20 +157,4 @@
             color: rgb(0, 98, 189);
             font-weight: bolder;
             text-align: center;
-        }
-
-        #h3Desc{
-            text-align: left;
-            color: rgb(67, 164, 255);
-            padding-left: 20px;
-            box-shadow: rgb(78, 169, 255) -5px 0px 0px;
-            border-top-left-radius: 10px;
-            border-bottom-left-radius: 10px;
-        }
-        #pDesc{
-            color: var(--cor4); max-width: 600px; text-align: left; margin: auto;
-        }
-        #divDesc{
-            max-width: 700px;
-            margin: auto;
         }

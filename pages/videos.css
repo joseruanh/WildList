@@ -1,18 +1,8 @@
-.champvid{float: right;
-        
-        
-    width: 90%;
-    min-width: 320px; margin: 0 auto;}
 video{
-    border-top-left-radius: 900px;
-    border-top-right-radius: 40px;
-    border-bottom-left-radius: 900px;
-    border-bottom-right-radius: 40px;
-    padding-left: 20px;
-    padding-bottom: 5px;
-
-    max-width: 480px;
-    width: 100%; height: auto;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 iframe{
