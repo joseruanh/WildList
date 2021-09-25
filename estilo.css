@@ -29,12 +29,8 @@ body{background-color: white;}
 
 #titulop{font-size: 20px;}
 
-#menuzinho{
-    float: right;
-    margin-top: 1px;}
-
 #tier{
-    width: 70px;
+    width: 80px;
     font-size: 10px;
     border-radius: 10px;
     cursor: pointer;
@@ -54,9 +50,10 @@ body{background-color: white;}
 h3#t2{
     font-family: heroes;
     font-weight: normal;
-    font-size: 12px;}
+    font-size: 12px;
+    color: var(--cor5);}
 
-#t2{color: var(--cor5);}
+.descricao{color: var(--cor5); font-size: 14px; font-family: Arial, Helvetica, sans-serif}
 
 
 
