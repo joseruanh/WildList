@@ -370,7 +370,7 @@ function  sup(){
                     <div id="list">
                         <br>
                         <p id="pTierListC">C</p> <br>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/blitzcrank.webp" alt="blitz"></a>
+                        <a id="tierHeros" href="blitzcrank.html"> <img id="imgGuia" src="../images/blitzcrank.webp" alt="blitz"></a>
 
                     </div>
                     <div id="list">
