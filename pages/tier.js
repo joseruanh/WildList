@@ -426,7 +426,7 @@ function  adc(){
                         <br>
                         <p id="pTierListA">A</p> <br>
                         <a id="tierHeros" href="jinx.html"> <img id="imgGuia" src="../images/jinx.webp" alt="jinx"></a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/draven.webp" alt="draven"> </a>
+                        <a id="tierHeros" href="draven.html"> <img id="imgGuia" src="../images/draven.webp" alt="draven"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/tristana.webp" alt="tristana"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/varus.webp" alt="varus"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/vayne.webp" alt="vayne"> </a>
