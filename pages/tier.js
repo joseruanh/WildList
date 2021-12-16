@@ -10,7 +10,7 @@ function  baron(){
                         <p id="pTierListSS">S+</p> <br>
                         
                         <a id="tierHeros" href="gragas.html"> <img id="imgGuia" src="../images/gragas.webp" alt="gragas"> </a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/fiora.webp" alt="camille"> </a>                      
+                        <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/fiora.webp" alt="camille"> </a>                      
                     </div>
                     <div id="list">
                         <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p>
@@ -25,7 +25,7 @@ function  baron(){
                     
                         <div id="list">
                         <p id="pTierListS">S</p> <br>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
+                            <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/malphite.webp" alt="malphite"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/darius.webp" alt="darius"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/renekton.webp" alt="renek"> </a>
@@ -131,7 +131,7 @@ function  jungle(){
                     
                         <div id="list">
                         <p id="pTierListS">S</p> <br>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
+                            <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/wukong.webp" alt="wukong"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/master-yi.webp" alt="master"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/evelynn.webp" alt="evelynn"> </a>
