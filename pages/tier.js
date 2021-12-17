@@ -233,7 +233,7 @@ function  mid(){
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/katarina.webp" alt="katarina"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/irelia.webp" alt="irelia"> </a>
                             <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
+                            <a id="tierHeros" href="corki.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
                         </div>
                         <div id="list">
                             <p>Classificação S são todos <br> aqueles que levam vantagem na maioria das matchups</p><br>
@@ -411,7 +411,7 @@ function  adc(){
                         <div id="list">
                         <p id="pTierListS">S</p> <br>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/ezreal.webp" alt="ez"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
+                            <a id="tierHeros" href="corki.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
                             <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/xayah.webp" alt="xayah"> </a>
                         </div>
