@@ -27,7 +27,7 @@ function  baron(){
                         <p id="pTierListS">S</p> <br>
                             <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/malphite.webp" alt="malphite"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/darius.webp" alt="darius"> </a>
+                            <a id="tierHeros" href="darius.html"> <img id="imgGuia" src="../images/darius.webp" alt="darius"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/renekton.webp" alt="renek"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/garen.webp" alt="garen"> </a>
                             <a id="tierHeros" href="akali.html"> <img id="imgGuia" src="../images/akali.webp" alt="akali"> </a>
