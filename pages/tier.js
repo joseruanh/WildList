@@ -134,7 +134,7 @@ function  jungle(){
                             <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/camille.webp" alt="camille"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/wukong.webp" alt="wukong"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/master-yi.webp" alt="master"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/evelynn.webp" alt="evelynn"> </a>
+                            <a id="tierHeros" href="evelynn.html"> <img id="imgGuia" src="../images/evelynn.webp" alt="evelynn"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/xin-zhao.webp" alt="xin-zhao"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/graves.webp" alt="graves"> </a>
                         </div>
