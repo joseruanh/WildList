@@ -166,7 +166,7 @@ function  jungle(){
                         <p id="pTierListB">B</p> <br>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/rammus.webp" alt="rammus"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/tryndamere.webp" alt="tryndamere"></a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/dr-mundo.webp" alt="dr mundo"></a>
+                        <a id="tierHeros" href="dr-mundo.html"> <img id="imgGuia" src="../images/dr-mundo.webp" alt="dr mundo"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/pantheon.webp" alt="pantheon"></a>
                         
                     </div>
@@ -227,7 +227,7 @@ function  mid(){
                     
                         <div id="list">
                         <p id="pTierListS">S</p> <br>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/diana.webp" alt="diana"> </a>
+                            <a id="tierHeros" href="diana.html"> <img id="imgGuia" src="../images/diana.webp" alt="diana"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/orianna.webp" alt="orianna"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/katarina.webp" alt="katarina"> </a>
