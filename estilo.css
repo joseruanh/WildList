@@ -4,6 +4,11 @@ body{background-color: white;}
 @font-face {
     font-family: heroes;
     src: url('fonts/Heroes-Legend.ttf') format('truetype');}
+@font-face
+{
+    font-family: beaufort;
+    src: url('fonts/Beaufort.ttf') format('truetype');
+}
 
 :root{
     --cor1: #1E4DE8;
@@ -26,7 +31,7 @@ body{background-color: white;}
     font-family: Verdana;}
     
 .header > div > strong{
-    font-family: heroes;}
+    font-family: beaufort; font-size: 25px;}
 
 #titulop{font-size: 20px;}
 
@@ -49,9 +54,9 @@ body{background-color: white;}
     box-shadow: white 0px 0px 5px;}
 
 h3#t2{
-    font-family: heroes;
+    font-family: beaufort;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 20px;
     color: var(--cor5);}
 
 .descricao{color: var(--cor5); font-size: 14px; font-family: Arial, Helvetica, sans-serif}
