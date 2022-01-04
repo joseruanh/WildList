@@ -10,7 +10,7 @@ function  baron(){
                         <p id="pTierListSS">S+</p> <br>
                         
                         <a id="tierHeros" href="gragas.html"> <img id="imgGuia" src="../images/gragas.webp" alt="gragas"> </a>
-                        <a id="tierHeros" href="camille.html"> <img id="imgGuia" src="../images/fiora.webp" alt="camille"> </a>                      
+                        <a id="tierHeros" href="fiora.html"> <img id="imgGuia" src="../images/fiora.webp" alt="fiora"> </a>                      
                     </div>
                     <div id="list">
                         <p>Classificação S+ são todos <br> aqueles que levam vantagem na grande maioria das matchups</p>
@@ -276,7 +276,7 @@ function  mid(){
                         <br>
                         <p id="pTierListC">C</p> <br>
                         <a id="tierHeros" href="annie.html"> <img id="imgGuia" src="../images/annie.webp" alt="annie"></a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/fizz.webp" alt="fizz"></a>
+                        <a id="tierHeros" href="fizz.html"> <img id="imgGuia" src="../images/fizz.webp" alt="fizz"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/lux.webp" alt="lux"></a>
 
                     </div>
@@ -410,7 +410,7 @@ function  adc(){
                     
                         <div id="list">
                         <p id="pTierListS">S</p> <br>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/ezreal.webp" alt="ez"> </a>
+                            <a id="tierHeros" href="ezreal.html"> <img id="imgGuia" src="../images/ezreal.webp" alt="ez"> </a>
                             <a id="tierHeros" href="corki.html"> <img id="imgGuia" src="../images/corki.webp" alt="corki"> </a>
                             <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/xayah.webp" alt="xayah"> </a>
