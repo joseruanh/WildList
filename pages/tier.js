@@ -229,7 +229,7 @@ function  mid(){
                         <p id="pTierListS">S</p> <br>
                             <a id="tierHeros" href="diana.html"> <img id="imgGuia" src="../images/diana.webp" alt="diana"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/orianna.webp" alt="orianna"> </a>
-                            <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
+                            <a id="tierHeros" href="galio.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/katarina.webp" alt="katarina"> </a>
                             <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/irelia.webp" alt="irelia"> </a>
                             <a id="tierHeros" href="lucian.html"> <img id="imgGuia" src="../images/lucian.webp" alt="lucian"> </a>
@@ -344,7 +344,7 @@ function  sup(){
                         <p id="pTierListA">A</p> <br>
                         <a id="tierHeros" href="alistar.html"> <img id="imgGuia" src="../images/alistar.webp" alt="alistar"></a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/seraphine.webp" alt="seraphine"> </a>
-                        <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
+                        <a id="tierHeros" href="galio.html"> <img id="imgGuia" src="../images/galio.webp" alt="galio"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/sona.webp" alt="sona"> </a>
                         <a id="tierHeros" href="ahri.html"> <img id="imgGuia" src="../images/soraka.png" alt="soraka"> </a>
                     </div>
