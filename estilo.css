@@ -15,8 +15,9 @@ body{background-color: white;}
     --cor5: #6585EC;}
 
 ::-webkit-scrollbar{width: 4px;}
-::-webkit-scrollbar-track{background: var(--cor1); border-radius: 15px;}
-::-webkit-scrollbar-thumb{background: lightgrey; border-radius: 15px;}
+::-webkit-scrollbar-track{background: lightgrey; border-radius: 15px;}
+::-webkit-scrollbar-thumb{background: var(--cor5); border-radius: 15px; transition: 0.3s;}
+::-webkit-scrollbar-thumb:hover{background: var(--cor2);}
 
 .header{
     display: flex;
@@ -107,10 +108,15 @@ h3#t2{
  	transition: 0.3s;
  	border-radius: 3px 3px 0px 0px;
  	transition-duration: 0.3s;
- 	border-radius: 50%;}
+    border-radius: 50%;
+ 	}
 
 .icone:hover{
-	border-radius: 10px;}
+	border-radius: 10px;
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
 
 .spanChampion{
 	position: absolute; /* necessário para alinhar dentro da div dos personagens */
